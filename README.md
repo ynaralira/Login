@@ -1,6 +1,6 @@
 # Tela de Login
 
-<img src="C:\Users\Gabriel\Desktop\1.png">
+![alt text](http://url/to/img.png)
 
 # Tela Home
 
